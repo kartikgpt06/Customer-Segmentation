@@ -1,6 +1,3 @@
-Certainly! Let's expand and enhance the documentation for the Customer Segmentation project by adding more detailed sections, including project objectives, methodology, implementation details, evaluation metrics, customization options, and potential extensions.
-
----
 
 # Customer Segmentation Project Documentation
 
